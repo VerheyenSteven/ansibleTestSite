@@ -1,0 +1,28 @@
+body {
+	background-color: lightgrey;
+}
+
+.rekenmachine {
+	margin: 50px auto 50px auto;
+	height: 300px;
+	width: 275px;
+	background-color: white;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.getal, .cancel, .totaal {
+	height:55px;
+	width: 55px;	
+	margin: 0.3em 0.3em;
+	background-color: lightgrey;
+	margin-left: 0.5em;
+}
+
+input {	
+	margin: 0em auto 2em auto;
+
+	width: 250px;
+	height: 30px;
+	display: block;
+}
