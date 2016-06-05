@@ -1,12 +1,12 @@
 body {
-	background-color: lightgrey;
+	background-color: blue;
 }
 
 .rekenmachine {
 	margin: 50px auto 50px auto;
 	height: 300px;
 	width: 275px;
-	background-color: white;
+	background-color: white;s
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
